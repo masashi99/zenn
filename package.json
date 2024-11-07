@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "article": "zenn new:article",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -10,6 +11,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "zenn-cli": "^0.1.153"
+    "zenn-cli": "0.1.158"
   }
 }
